@@ -1,4 +1,4 @@
-# ReadMe
+# ReadMe Generator
 
   ## Licensing
   
@@ -6,7 +6,7 @@
     
 
   ## Description
-  Generator
+  Generate ReadMe
 
   ## Table of Contents
   * [User Story](#Usage)
@@ -16,21 +16,21 @@
   * [Questions](#Questions)
   
   ## User Story
-  Make Readme Generator
+  Using Command Line
 
   ## Installation
   ```
-  Installation guidelines
+  Install Inquirer
   ```
 
   ## Tests
   ```
-  testing guideliens
+  NPM I
   ```
 
   ## Contributors
-  no
+  No
 
   ## Questions
-  Questions? More info available https://github.com/githubusername/ReadMe
-  Or Contact me at email@email.com
+  Questions? More info available https://github.com/GithubUser/ReadMe Generator
+  Or Contact me at e@mail.com

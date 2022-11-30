@@ -7,8 +7,9 @@
 * Inquirer package ( install with "nmp i" in Terminal )
 
 ## Screenshot
-Live Demo Link:
-https://drive.google.com/file/d/19zvJg4Moqxif7ypuPrbCP4sUBjAjqMMQ/view?usp=share_link
+![Screenshot of application](./assets/video1431259114.mp4)
+![Screenshot of application](./assets/sc1.png)
+
 ## Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
@@ -34,5 +35,5 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Status
-* Live Video Demo: https://drive.google.com/file/d/19zvJg4Moqxif7ypuPrbCP4sUBjAjqMMQ/view?usp=share_link
+* Live Video Demo: 
 * Github link: https://github.com/louyoon89/ReadMe-Generator
