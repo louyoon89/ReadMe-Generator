@@ -34,5 +34,5 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Status
-* Live Video Demo: 
+* Live Video Demo: https://drive.google.com/file/d/19zvJg4Moqxif7ypuPrbCP4sUBjAjqMMQ/view?usp=share_link
 * Github link: https://github.com/louyoon89/ReadMe-Generator
