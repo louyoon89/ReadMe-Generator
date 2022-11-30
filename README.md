@@ -7,7 +7,6 @@
 * Inquirer package ( install with "nmp i" in Terminal )
 
 ## Screenshot
-![Screenshot of application](./assets/video1431259114.mp4)
 ![Screenshot of application](./assets/sc1.png)
 
 ## Acceptance Criteria
